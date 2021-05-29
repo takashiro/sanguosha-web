@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 import StartScene from './page/StartScene';
